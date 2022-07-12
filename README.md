@@ -7,7 +7,7 @@ All the projects I've made during the Responsive Web Design certificate from fre
 A list of the completed and remaining projects, with the targeted concept to be learned mentioned in *italics*.
 - [x] Cat Photo App with *HTML*
 - [x] Cafe Menu with *basic CSS*
-- [ ] Set of Colored Markers with *CSS Colors*
+- [x] Set of Colored Markers with *CSS Colors*
 - [ ] Registeration Form with *HTML Forms*
 - [ ] Survey Form **(Certification Project)**
 - [ ] Rothko Painting with *CSS Box Model*
