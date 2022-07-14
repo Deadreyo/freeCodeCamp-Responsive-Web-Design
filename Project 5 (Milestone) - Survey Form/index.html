@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Survey Form</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <form id="survey-form" action="www.test.com" target="_blank">
+      <h1 id="title">Website Survey Form</h1>
+      <p id="description">Collecting information about the quality and satisfaction of the website.</p>
+      <fieldset>
+        <label id="name-label">
+          Enter Name:
+          <input type="text" id="name" required placeholder="Ahmed">
+        </label>
+
+        <label id="email-label">
+          Enter Email: 
+          <input type="email" id="email" required placeholder="ahmed@domain.com">
+        </label>
+
+        <label id="number-label">
+          Age: 
+          <input type="number" id="number" min="10" max="120" placeholder="20">
+        </label>
+      </fieldset>
+
+      <fieldset>
+        <label><input type="radio" name="group" value="1"> Option 1</label>
+        <label><input type="radio" name="group" value="2"> Option 2 </label>
+
+        <label><input type="checkbox" value="1"> Box 1</label>
+        <label><input type="checkbox" value="2"> Box 2</label>
+        <label><input type="checkbox" value="3"> Box 3</label>
+      </fieldset>
+
+      <fieldset>
+        <label>Comments: <textarea rows="3" cols="30"></textarea></label>
+        <label>
+          Choose one:
+          <select id="dropdown">
+            <option>1</option>
+            <option>2</option>
+          </select>
+        </label>
+      </fieldset>
+
+      <input type="submit" value="Submit" id="submit">
+
+    </form>
+  </body>
+</html>

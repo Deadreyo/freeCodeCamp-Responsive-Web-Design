@@ -1,15 +1,18 @@
 # freeCodeCamp Responsive Web Design Certificate
 All the projects I've made during the Responsive Web Design certificate from freeCodeCamp.org.
 
+The target of taking this course is to be able to make websites that are responsive and work on all devices, and learn all the basic, intermediate, and advanced topics in HTML & CSS via hands-on projects.
+
 ### Status: In Progress
 
 ## Projects
 A list of the completed and remaining projects, with the targeted concept to be learned mentioned in *italics*.
+
 - [x] Cat Photo App with *HTML*
 - [x] Cafe Menu with *basic CSS*
 - [x] Set of Colored Markers with *CSS Colors*
 - [x] Registeration Form with *HTML Forms*
-- [ ] Survey Form **(Certification Project)**
+- [x] Survey Form **(Certification Project)**
 - [ ] Rothko Painting with *CSS Box Model*
 - [ ] Photo Gallery with *CSS Flexbox*
 - [ ] Nutrition Label with *Typography*
