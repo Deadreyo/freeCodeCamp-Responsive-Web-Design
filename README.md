@@ -8,7 +8,7 @@ A list of the completed and remaining projects, with the targeted concept to be 
 - [x] Cat Photo App with *HTML*
 - [x] Cafe Menu with *basic CSS*
 - [x] Set of Colored Markers with *CSS Colors*
-- [ ] Registeration Form with *HTML Forms*
+- [x] Registeration Form with *HTML Forms*
 - [ ] Survey Form **(Certification Project)**
 - [ ] Rothko Painting with *CSS Box Model*
 - [ ] Photo Gallery with *CSS Flexbox*
