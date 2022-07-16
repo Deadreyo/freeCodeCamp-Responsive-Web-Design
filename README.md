@@ -13,7 +13,7 @@ A list of the completed and remaining projects, with the targeted concept to be 
 - [x] Set of Colored Markers with *CSS Colors*
 - [x] Registeration Form with *HTML Forms*
 - [x] Survey Form **(Certification Project)**
-- [ ] Rothko Painting with *CSS Box Model*
+- [x] Rothko Painting with *CSS Box Model*
 - [ ] Photo Gallery with *CSS Flexbox*
 - [ ] Nutrition Label with *Typography*
 - [ ] Building a Quiz with *Accessibility*
