@@ -3,7 +3,7 @@ All the projects I've made during the Responsive Web Design certificate from fre
 
 The target of taking this course is to be able to make websites that are responsive and work on all devices, and learn all the basic, intermediate, and advanced topics in HTML & CSS via hands-on projects.
 
-### Status: In Progress (9/20)
+### Status: In Progress (10/20)
 
 ## Projects
 A list of the completed and remaining projects, with the targeted concept to be learned mentioned in *italics*.
@@ -17,7 +17,7 @@ A list of the completed and remaining projects, with the targeted concept to be 
 - [x] Photo Gallery with *CSS Flexbox*
 - [x] Nutrition Label with *Typography*
 - [x] Building a Quiz with *Accessibility*
-- [ ] Tribute Page **(Certification Project)**
+- [x] Tribute Page **(Certification Project)**
 - [ ] Balance Sheet with *CSS Pseudo Selectors*
 - [ ] Picasso Painting with *Intermediate CSS*
 - [ ] Building a Piano with *Responsive Web Design*
