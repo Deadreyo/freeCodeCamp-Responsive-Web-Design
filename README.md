@@ -18,7 +18,7 @@ A list of the completed and remaining projects, with the targeted concept to be 
 - [x] Nutrition Label with *Typography*
 - [x] Building a Quiz with *Accessibility*
 - [x] Tribute Page **(Certification Project)**
-- [ ] Balance Sheet with *CSS Pseudo Selectors*
+- [ ] Balance Sheet with *HTML Tables* & *CSS Pseudo Selectors*
 - [ ] Picasso Painting with *Intermediate CSS*
 - [ ] Building a Piano with *Responsive Web Design*
 - [ ] Technical Documentation Page **(Certification Project)**
