@@ -3,7 +3,7 @@ All the projects I've made during the Responsive Web Design certificate from fre
 
 The target of taking this course is to be able to make websites that are responsive and work on all devices, and learn all the basic, intermediate, and advanced topics in HTML & CSS via hands-on projects.
 
-### Status: In Progress (18/21)
+### Status: In Progress (19/21)
 
 ## Projects
 A list of the completed and remaining projects, with the targeted concept to be learned mentioned in *italics*.
@@ -28,7 +28,7 @@ You can view all of the projects, by visiting the Github Deployment [here](https
 - [x] [City Skyline](https://deadreyo.github.io/freeCodeCamp-Responsive-Web-Design/Project%2016%20-%20City%20Skyline/) with *CSS Variables*
 - [x] [Building a Magazine](https://deadreyo.github.io/freeCodeCamp-Responsive-Web-Design/Project%2017%20-%20Magazine/) with *CSS Grid*
 - [x] [Product Landing Page](https://deadreyo.github.io/freeCodeCamp-Responsive-Web-Design/Project%2018%20(Milestone)%20-%20Product%20Landing%20Page/) **(Certification Project)**
-- [ ] Building a Ferris Wheel with *CSS Animation*
+- [x] [Building a Ferris Wheel](https://deadreyo.github.io/freeCodeCamp-Responsive-Web-Design/Project%2019%20-%20Building%20a%20Ferris%20Wheel/) with *CSS Animation*
 - [ ] Building a Penguin with *CSS Transforms*
 - [ ] Personal Porfolio Webpage **(Final Certification Project)**
 
